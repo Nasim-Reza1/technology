@@ -74,3 +74,14 @@ input{
     text-transform: uppercase;
     text-align: center;
 }
+footer{
+    background-color: rgba(240, 255, 240, 0.603);
+    text-decoration: none;
+    text-align: center;
+    padding: 25px;
+    font-size: 25px;
+}
+.foot{
+    text-decoration: none;
+    text-align: center;
+}
