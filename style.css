@@ -51,3 +51,26 @@ body{
     height: 398px;
     width: 598px;
 }
+input{
+    background-color: greenyellow;
+    padding: 10px 30px;
+    margin: 20px;
+    border-radius: 7px;
+    font-weight: 700;
+}
+.card{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    border-radius: 15px;
+}
+.visa{
+    border-top: royalblue 3px solid;
+    border-right: solid 3px green;
+    border-left: greenyellow 3px solid;
+    border-bottom: solid greenyellow solid;
+    border-radius: 10px;
+    text-transform: uppercase;
+    text-align: center;
+}
